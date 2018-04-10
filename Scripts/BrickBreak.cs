@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,7 +10,7 @@ public class BrickBreak : MonoBehaviour {
 
     private void Awake()
     {
-        
+        //BIG SLOPING PENIS
     }
 
     private void OnCollisionEnter2D(Collision col)
